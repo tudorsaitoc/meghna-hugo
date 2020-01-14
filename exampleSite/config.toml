@@ -46,7 +46,7 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [params]
-author = "Themefisher"
+author = "Tudor Saitoc"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 googleAnalitycsID = "Your ID"
 logo = "images/logo.png"
